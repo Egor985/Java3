@@ -19,7 +19,7 @@ public class MainJdbcClass {
             performDropDB();
             performCreateDB();
             prepareStatements();
-            //performInsert5Students();
+            performInsert5Students();
             //performUpdateDb();
             //performDeleteDb();
 
@@ -27,7 +27,7 @@ public class MainJdbcClass {
 
             Savepoint savepoint = connection.setSavepoint();
 
-            statement.executeUpdate("CALL procedure()");
+            //statement.executeUpdate("CALL procedure()");
 
             connection.rollback(savepoint);
 
