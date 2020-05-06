@@ -18,7 +18,7 @@ public class MainJdbcClass {
             connect();
             performDropDB();
             performCreateDB();
-            prepareStatements();
+            //prepareStatements();
             //performInsert5Students();
             //performUpdateDb();
             //performDeleteDb();
