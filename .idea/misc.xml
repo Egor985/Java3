@@ -6,7 +6,7 @@
   <component name="MavenBuildProjectComponent">
     <option name="mavenExecutable" value="" />
     <option name="Settings File" value="" />
-    <option name="mavenCommandLineParams" value="" />
+    <option name="mavenCommandLineParams" value="maven" />
     <option name="vmOptions" value="" />
     <option name="useMavenEmbedder" value="false" />
     <option name="useFilter" value="false" />
@@ -28,6 +28,13 @@
     <option name="Update Snapshots" value="false" />
     <option name="Skip Tests" value="false" />
     <pom-list />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sqlite-jdbc/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (3)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

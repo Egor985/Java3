@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lesson3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="000e1915-1bde-41a6-8a57-34f07d1bdcca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfXDBIFaef8uYxDM6BPdUuULAk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lesson6.homework" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson5.homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamAPI">
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.classwork.StreamAPI" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.Teach.Test" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.Teach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.homework.Test" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.homework.Animal3.Test" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.homework.Animal3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.homework.Animal4.Test" />
+      <module name="Lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.homework.Animal4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamAPI" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="000e1915-1bde-41a6-8a57-34f07d1bdcca" name="Default Changelist" comment="" />
+      <created>1581438000433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581438000433</updated>
+      <workItem from="1581438002498" duration="279000" />
+      <workItem from="1581438410732" duration="371000" />
+      <workItem from="1581439122024" duration="157000" />
+      <workItem from="1581439442934" duration="84000" />
+      <workItem from="1581439565243" duration="979000" />
+      <workItem from="1581440717920" duration="272000" />
+      <workItem from="1581441033329" duration="1737000" />
+      <workItem from="1581442828862" duration="3555000" />
+      <workItem from="1581518882576" duration="7294000" />
+      <workItem from="1581526863027" duration="535000" />
+      <workItem from="1581597196788" duration="142000" />
+      <workItem from="1581613903427" duration="29000" />
+      <workItem from="1581614112337" duration="189000" />
+      <workItem from="1581614357488" duration="3988000" />
+      <workItem from="1581853121666" duration="11723000" />
+      <workItem from="1581956733229" duration="626000" />
+      <workItem from="1581958472432" duration="7810000" />
+      <workItem from="1582039723515" duration="596000" />
+      <workItem from="1582125604338" duration="4659000" />
+      <workItem from="1582300334382" duration="1586000" />
+      <workItem from="1582302151895" duration="424000" />
+      <workItem from="1582360851706" duration="1566000" />
+      <workItem from="1582363518956" duration="1645000" />
+      <workItem from="1582365281217" duration="1199000" />
+      <workItem from="1582385202267" duration="1638000" />
+      <workItem from="1582386911370" duration="1790000" />
+      <workItem from="1582388756474" duration="470000" />
+      <workItem from="1582389588950" duration="1238000" />
+      <workItem from="1582447518579" duration="1997000" />
+      <workItem from="1582450076407" duration="1781000" />
+      <workItem from="1582451961342" duration="1135000" />
+      <workItem from="1582540274699" duration="1140000" />
+      <workItem from="1582542895735" duration="1268000" />
+      <workItem from="1582544594607" duration="1784000" />
+      <workItem from="1582546418273" duration="1792000" />
+      <workItem from="1582548231720" duration="1036000" />
+      <workItem from="1582549461128" duration="306000" />
+      <workItem from="1582564127841" duration="1743000" />
+      <workItem from="1582731403780" duration="393000" />
+      <workItem from="1582731911395" duration="1155000" />
+      <workItem from="1582733184613" duration="1159000" />
+      <workItem from="1582734429053" duration="457000" />
+      <workItem from="1582734985064" duration="1702000" />
+      <workItem from="1582736757887" duration="1106000" />
+      <workItem from="1582823351883" duration="754000" />
+      <workItem from="1583039676303" duration="21000" />
+      <workItem from="1583040282003" duration="1068000" />
+      <workItem from="1583041651553" duration="10000" />
+      <workItem from="1583046367125" duration="660000" />
+      <workItem from="1583047121518" duration="752000" />
+      <workItem from="1583167617674" duration="3065000" />
+      <workItem from="1583249326874" duration="507000" />
+      <workItem from="1585062689810" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="201" key="#Menus_and_Toolbars" timestamp="1582130182033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="59" y="201" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1582130182033" />
+    <state x="226" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1583041164696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="226" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583041164696" />
+    <state x="322" y="357" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581867938916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="322" y="357" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581867938916" />
+    <state x="227" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582549685649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582549685649" />
+    <state x="188" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582127901377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="188" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582127901377" />
+    <state x="600" y="361" key="FileChooserDialogImpl" timestamp="1582734378036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="361" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582734378036" />
+    <state x="367" y="425" key="Github.ShareDialog" timestamp="1582731749601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="425" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582731749601" />
+    <state width="873" height="265" key="GridCell.Tab.0.bottom" timestamp="1583170692409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="873" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583170692409" />
+    <state width="873" height="265" key="GridCell.Tab.0.center" timestamp="1583170692409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="873" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583170692409" />
+    <state width="873" height="265" key="GridCell.Tab.0.left" timestamp="1583170692408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="873" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583170692408" />
+    <state width="873" height="265" key="GridCell.Tab.0.right" timestamp="1583170692409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="873" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583170692409" />
+    <state x="146" y="396" key="Performance.Activity.Monitor" timestamp="1582302425069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="146" y="396" key="Performance.Activity.Monitor/0.0.1920.1040@0.0.1920.1040" timestamp="1582302425069" />
+    <state x="72" y="148" key="SettingsEditor" timestamp="1583169274763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583169274763" />
+    <state x="208" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582547752493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1582547752493" />
+    <state x="274" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582547734542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="274" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582547734542" />
+    <state x="509" y="102" width="659" height="663" key="dock-window-1" timestamp="1581856725548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="102" width="659" height="663" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1581856725548" />
+    <state x="933" y="0" width="659" height="663" key="dock-window-2" timestamp="1581856870223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="0" width="659" height="663" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1581856870223" />
+    <state x="1006" y="49" width="659" height="663" key="dock-window-3" timestamp="1581862987547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1006" y="49" width="659" height="663" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1581862987547" />
+    <state x="332" y="141" key="refactoring.ChangeSignatureDialog" timestamp="1582732718798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="141" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582732718798" />
+    <state x="153" y="248" key="run.anything.popup" timestamp="1582732975746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="153" y="248" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582732975746" />
+  </component>
+</project>

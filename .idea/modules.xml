@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/@ IntelliJ IDEA.iml" filepath="$PROJECT_DIR$/.idea/@ IntelliJ IDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite-jdbc/sqlite-jdbc.iml" filepath="$PROJECT_DIR$/sqlite-jdbc/sqlite-jdbc.iml" />
     </modules>
   </component>
 </project>

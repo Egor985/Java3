@@ -1,0 +1,318 @@
+
+package lesson5.classwork;
+
+public class Cat {
+
+    //свойства Fields
+    private String name;
+    private int age;
+    private static int counter = 0;
+
+    @Override
+    protected void finalize() throws Throwable {
+        counter++;
+        super.finalize();
+    }
+
+    public Cat(int age) {
+        this.age = age;
+        //counter++;
+    }
+
+    public Cat() {
+
+    }
+
+    public int getCounter() {
+        return counter;
+    }
+
+    //getters and setters
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getName() {
+        return name;
+    }
+    //private - in class
+    //'' - default (package private) - in package
+    //protected pp + extension (по наследству)
+    //public - everywhere
+    public void say() {
+        System.out.println(name + " MEOW");
+    }
+
+}
+ 25  src/java/lesson5/classwork/Test.java 
+@@ -0,0 +1,25 @@
+package lesson5.classwork;
+
+import java.util.Arrays;
+
+public class Test {
+    static int a = 2;
+    public static void main(String[] args) {
+        int a = 4;
+        a = 3;
+        System.out.println();
+        Cat cat = new Cat();
+        new Cat(); new Cat();
+        System.out.println(new Cat().getCounter());
+        // null.some NPE
+        Arrays.toString(new int[]{});
+        cat.say();
+        cat.setName("Vaska");
+        System.out.println(cat.getName());
+        //System.out.println(cat.name);
+        for (int i = 0; i < 1000000; i++) {
+            new Cat();
+        }
+        System.out.println(new Cat().getCounter());
+    }
+}
+ 5  src/java/lesson5/classwork/Triangle.java 
+@@ -0,0 +1,5 @@
+package lesson5.classwork;
+
+public class Triangle {
+    double a, b, c;
+}
+ 10  src/java/lesson5/classwork/pack1/Test.java 
+@@ -0,0 +1,10 @@
+package lesson5.classwork.pack1;
+
+import lesson5.classwork.Cat;
+
+public class Test {
+    public static void main(String[] args) {
+        Cat cat = new Cat();
+
+    }
+}
+ 22  src/java/lesson5/classwork/students/Group.java 
+@@ -0,0 +1,22 @@
+package lesson5.classwork.students;
+
+import java.util.ArrayList;
+
+public class Group {
+
+    ArrayList<Student> students;
+    Schedule schedule;
+    String groupId;
+    private static int counter = 0;
+
+    public Group() {
+        groupId = "gr_" + counter;
+        counter++;
+        students = new ArrayList<>();
+    }
+
+    public void addStudent(Student student) {
+        student.addToGroup(this);
+        students.add(student);
+    }
+}
+ 37  src/java/lesson5/classwork/students/Schedule.java 
+@@ -0,0 +1,37 @@
+package lesson5.classwork.students;
+
+
+import java.util.ArrayList;
+
+public class Schedule {
+    Group group;
+    ArrayList<Subject> subjects;
+    String scheduleId;
+    private static int counter = 0;
+    //alt + insert
+    public Schedule(Group group) {
+        this.group = group;
+        group.schedule = this;
+        scheduleId = "sch_" + group.groupId + counter;
+        subjects = new ArrayList<>();
+        counter++;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder out = new StringBuilder();
+        out.append(group.groupId)
+                .append('\n')
+                .append(scheduleId)
+                .append('\n');
+        for (Subject subject : subjects) {
+            out.append(subject).append('\n');
+        }
+        return out.toString();
+    }
+
+    public void addSubject(Subject subject) {
+        subject.schedule = this;
+        subjects.add(subject);
+    }
+}
+ 38  src/java/lesson5/classwork/students/Student.java 
+@@ -0,0 +1,38 @@
+package lesson5.classwork.students;
+
+public class Student {
+
+    private String name, surname, fatherName;
+    private int age;
+    private String address, passCode;
+    private Group group;
+
+    public Student(String surname, String name, String fatherName) {
+        this.name = name;
+        this.surname = surname;
+        this.fatherName = fatherName;
+    }
+
+    public Group getGroup() {
+        return group;
+    }
+
+    public void showTeachersInfo() {
+        for (Subject subject : group.schedule.subjects) {
+            System.out.print(subject + " : ");
+            for (Teacher teacher : subject.teachers) {
+                System.out.println(teacher);
+            }
+        }
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s %s", surname, name, fatherName);
+    }
+
+    public void addToGroup(Group group) {
+        this.group = group;
+        group.students.add(this);
+    }
+}
+ 27  src/java/lesson5/classwork/students/Subject.java 
+@@ -0,0 +1,27 @@
+package lesson5.classwork.students;
+
+import java.util.ArrayList;
+
+public class Subject {
+
+    Schedule schedule;
+    String name;
+    String time;
+    ArrayList<Teacher> teachers;
+
+    public Subject(String name, String time) {
+        this.name = name;
+        this.time = time;
+        teachers = new ArrayList<>();
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s", name, time);
+    }
+
+    public void applyTeacher(Teacher teacher) {
+        teacher.subjects.add(this);
+        teachers.add(teacher);
+    }
+}
+ 26  src/java/lesson5/classwork/students/Teacher.java 
+@@ -0,0 +1,26 @@
+package lesson5.classwork.students;
+
+import java.util.ArrayList;
+
+public class Teacher {
+
+    ArrayList<Subject> subjects;
+    String name, surname, fatherName;
+
+    public Teacher(String surname, String name, String fatherName) {
+        this.name = name;
+        this.surname = surname;
+        this.fatherName = fatherName;
+        subjects = new ArrayList<>();
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s %s", surname, name, fatherName);
+    }
+
+    public void takeSubject(Subject subject) {
+        subjects.add(subject);
+        subject.teachers.add(this);
+    }
+}
+ 38  src/java/lesson5/classwork/students/Test.java 
+@@ -0,0 +1,38 @@
+package lesson5.classwork.students;
+
+public class Test {
+    // Информация о студентах учителя
+    // Информация об учителях студента
+    // Информация о предметах студента
+    // Расписание студента : пердмет, время, учитель
+    // Сделать две группы из 10 студентов каждая с различными расписаниями
+    // математика 12:00 и математика 15:30 - разные объекты
+    // 1 предмет для одного студента не могут вести два препода
+    public static void main(String[] args) {
+        Student s1 = new Student("Ivanov", "Ivan", "Ivanovich");
+        Student s2 = new Student("Petrov", "Petr", "Ivanovich");
+        Group group = new Group();
+        group.schedule = new Schedule(group);
+        Schedule schedule = group.schedule;
+        s1.addToGroup(group);
+        s2.addToGroup(group);
+        Subject sub1 = new Subject("math", "12:00");
+        Subject sub2 = new Subject("inf", "15:30");
+        schedule.addSubject(sub1);
+        schedule.addSubject(sub2);
+        Teacher mathTeacher = new Teacher("Gleym", "Eric", "Hildson");
+        Teacher infTeacher = new Teacher("Korotkevich", "Gennadiy", "Batkovich");
+        sub1.applyTeacher(mathTeacher);
+        sub2.applyTeacher(infTeacher);
+        System.out.println(group.groupId);
+        System.out.println(group.students);
+        System.out.println(group.schedule);
+        System.out.println(group.schedule.subjects.get(0).teachers);
+        System.out.println(group.schedule.subjects.get(1).teachers);
+        System.out.println(mathTeacher.subjects);
+        System.out.println(mathTeacher.subjects.get(0).schedule.group.students);
+        System.out.println(infTeacher.subjects);
+        System.out.println(s1.getGroup().schedule.subjects.get(0).teachers.get(0));
+        s1.showTeachersInfo();
+    }
+}
+0 comments on commit de78105
+@Egor985
+ 
+ 
+Leave a comment
+
+Attach files by dragging & dropping, selecting or pasting them.
+ 
+ You’re not receiving notifications from this thread.
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

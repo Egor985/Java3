@@ -21,6 +21,9 @@ public class Test {
         System.out.println("Сумма массива = " + sum);
     }
 
+
+
+
     public static Object[][] initArray(int row, int col) throws MyArraySizeException {
         if (row != 4 || col != 4) {
             throw new MyArraySizeException("Размер массива 4х4 не может быть изменен");

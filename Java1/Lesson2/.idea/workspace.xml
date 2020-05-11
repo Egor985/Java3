@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10671247-86a0-450c-8a0b-bc5dcb5989b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lesson2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRZcitgocWa2V5GHUVN9FdbGLH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson3" />
+  </component>
+  <component name="RunManager" selected="Application.homework">
+    <configuration name="Cycles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classworc.Cycles" />
+      <module name="Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classworc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfCase (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classworc.IfCase" />
+      <module name="Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classworc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfCase" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfCase" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Ru.GeekBrains.Main" />
+      <module name="Lesson2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classworc.Mass" />
+      <module name="Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classworc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homework" />
+      <module name="Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IfCase" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Cycles" />
+      <item itemvalue="Application.IfCase (1)" />
+      <item itemvalue="Application.Mass" />
+      <item itemvalue="Application.homework" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.homework" />
+        <item itemvalue="Application.Mass" />
+        <item itemvalue="Application.Cycles" />
+        <item itemvalue="Application.IfCase (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10671247-86a0-450c-8a0b-bc5dcb5989b6" name="Default Changelist" comment="" />
+      <created>1581010948988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581010948988</updated>
+      <workItem from="1581010950505" duration="3362000" />
+      <workItem from="1581091343281" duration="421000" />
+      <workItem from="1581092793228" duration="2240000" />
+      <workItem from="1581095220154" duration="3768000" />
+      <workItem from="1581099301161" duration="176000" />
+      <workItem from="1581150594133" duration="1642000" />
+      <workItem from="1581158582703" duration="526000" />
+      <workItem from="1581176543076" duration="1170000" />
+      <workItem from="1581177761085" duration="5205000" />
+      <workItem from="1581185218577" duration="179000" />
+      <workItem from="1581235861215" duration="985000" />
+      <workItem from="1581237039578" duration="281000" />
+      <workItem from="1581237586307" duration="22000" />
+      <workItem from="1581237972127" duration="3585000" />
+      <workItem from="1581267096109" duration="376000" />
+      <workItem from="1581267649752" duration="4636000" />
+      <workItem from="1581350736978" duration="790000" />
+      <workItem from="1581351898644" duration="58000" />
+      <workItem from="1581354350161" duration="1985000" />
+      <workItem from="1581358494562" duration="466000" />
+      <workItem from="1581437599363" duration="64000" />
+      <workItem from="1581439382430" duration="59000" />
+      <workItem from="1581439528146" duration="20000" />
+      <workItem from="1581440546613" duration="170000" />
+      <workItem from="1581440991682" duration="41000" />
+      <workItem from="1581442772753" duration="20000" />
+      <workItem from="1581526798917" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="210" key="#Arrays" timestamp="1581177621407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="153" y="210" key="#Arrays/0.0.1920.1040@0.0.1920.1040" timestamp="1581177621407" />
+    <state x="341" y="281" key="FileChooserDialogImpl" timestamp="1581526861299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581526861299" />
+    <state width="776" height="266" key="GridCell.Tab.0.bottom" timestamp="1581439441412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581439441412" />
+    <state width="776" height="266" key="GridCell.Tab.0.center" timestamp="1581439441412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581439441412" />
+    <state width="776" height="266" key="GridCell.Tab.0.left" timestamp="1581439441412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581439441412" />
+    <state width="776" height="266" key="GridCell.Tab.0.right" timestamp="1581439441412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581439441412" />
+    <state x="101" y="203" key="NewModule_or_Project.wizard" timestamp="1581182753955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="101" y="203" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581182753955" />
+    <state x="325" y="270" width="555" height="524" key="StructurePopup" timestamp="1581093343450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="325" y="270" width="555" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1581093343450" />
+    <state x="166" y="295" width="540" height="496" key="extract.method.dialog" timestamp="1581179802176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="166" y="295" width="540" height="496" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581179802176" />
+    <state x="0" y="160" key="new project wizard" timestamp="1581437638469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="160" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581437638469" />
+    <state x="143" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1581238043754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="159" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581238043754" />
+    <state x="266" y="331" key="svn.repositoryBrowser" timestamp="1581185395218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="266" y="331" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1581185395218" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classworc/Cycles.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

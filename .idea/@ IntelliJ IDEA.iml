@@ -3,8 +3,17 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Java2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava2-1" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava2-2" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava2-3" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava2-3/java2-java2" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-1" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-1/java-master" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-2" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-2/java3-master" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-Levin" />
+      <excludeFolder url="file://$MODULE_DIR$/HWJava3-Levin/Java3-master" />
       <excludeFolder url="file://$MODULE_DIR$/Java1" />
       <excludeFolder url="file://$MODULE_DIR$/Other" />
       <excludeFolder url="file://$MODULE_DIR$/Other2" />

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="300fd660-cfe8-4b6b-86e2-ff9b70281e38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lesson1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJ4AkYNEXDnaImTKOFcXVcZ3PU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Variables">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.Hello" />
+      <module name="Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Ru.GeekBrains.Main" />
+      <module name="Lesson1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Variables" />
+      <module name="Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="300fd660-cfe8-4b6b-86e2-ff9b70281e38" name="Default Changelist" comment="" />
+      <created>1580750721819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580750721819</updated>
+      <workItem from="1580750724391" duration="649000" />
+      <workItem from="1580751496511" duration="399000" />
+      <workItem from="1580751921122" duration="225000" />
+      <workItem from="1580752259605" duration="904000" />
+      <workItem from="1580753295595" duration="69000" />
+      <workItem from="1580753744945" duration="1604000" />
+      <workItem from="1580758654386" duration="12000" />
+      <workItem from="1580832218147" duration="593000" />
+      <workItem from="1580833284221" duration="7175000" />
+      <workItem from="1580918000409" duration="898000" />
+      <workItem from="1580918959175" duration="4843000" />
+      <workItem from="1581001608232" duration="1158000" />
+      <workItem from="1581009180237" duration="607000" />
+      <workItem from="1581236866809" duration="66000" />
+      <workItem from="1581439283927" duration="97000" />
+      <workItem from="1581439549198" duration="15000" />
+      <workItem from="1581442793554" duration="34000" />
+      <workItem from="1581852082286" duration="986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580838744796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="224" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580838744796" />
+    <state x="274" y="280" key="FileChooserDialogImpl" timestamp="1581853118603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="274" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581853118603" />
+    <state width="776" height="266" key="GridCell.Tab.0.bottom" timestamp="1581439380596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581439380596" />
+    <state width="776" height="266" key="GridCell.Tab.0.center" timestamp="1581439380596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581439380596" />
+    <state width="776" height="266" key="GridCell.Tab.0.left" timestamp="1581439380596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581439380596" />
+    <state width="776" height="266" key="GridCell.Tab.0.right" timestamp="1581439380596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="776" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581439380596" />
+    <state x="0" y="167" key="SettingsEditor" timestamp="1580751187937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580751187937" />
+    <state x="0" y="148" key="new project wizard" timestamp="1580753364172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580753364172" />
+    <state x="199" y="294" width="672" height="678" key="search.everywhere.popup" timestamp="1580924221680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="199" y="294" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580924221680" />
+    <state x="246" y="243" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1580918562660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="246" y="243" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580918562660" />
+  </component>
+</project>
